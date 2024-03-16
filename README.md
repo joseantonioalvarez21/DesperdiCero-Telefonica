@@ -25,11 +25,7 @@ La plataforma contribuirá positivamente varios de los **Objetivos de Desarrollo
 Listado de librerías usadas en el proyecto:
 * [Apache Commons CSV](https://mvnrepository.com/artifact/org.apache.commons/commons-csv/1.10.0): Versión 1.10.0
 
-## Instalación
-***
-Para realizar la instalación de la práctica en un entorno compatible con Git, es necesario introducir los siguientes comandos:
-```
-$ git clone https://github.com/UFV-INGINF/project-group-c-c01-dinamita.git
+
 ```
 ## Desarrolladores
 ***
